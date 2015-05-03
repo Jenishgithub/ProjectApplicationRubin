@@ -28,7 +28,7 @@ public class SplashActivity extends Activity {
 					e.printStackTrace();
 				}
 				finally{
-					finish();
+					finish();//heythere
 				}
 			}
 		};
